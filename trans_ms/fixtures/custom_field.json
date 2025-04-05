@@ -44,7 +44,6 @@
   {
     "name": "Vehicle-trans_ms_empty_container_fuel_consumption",
     "modified": "2022-03-08 00:50:54.823205",
-    "module_def": "CSF TZ",
     "dt": "Vehicle",
     "label": "Empty Container Fuel Consumption",
     "fieldname": "trans_ms_empty_container_fuel_consumption",
